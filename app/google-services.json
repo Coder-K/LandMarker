@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "910472400827",
+    "firebase_url": "https://land-marker-cd6a6-default-rtdb.firebaseio.com",
+    "project_id": "land-marker-cd6a6",
+    "storage_bucket": "land-marker-cd6a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910472400827:android:78d8ce36a33ac8a938be9e",
+        "android_client_info": {
+          "package_name": "com.example.landmarker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNfYtA8OJVDDuxZ_P97DKpNv5FdmAMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910472400827:android:900c2121c8bb1a3b38be9e",
+        "android_client_info": {
+          "package_name": "com.example.mapsme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNfYtA8OJVDDuxZ_P97DKpNv5FdmAMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910472400827:android:7e22cad90514063238be9e",
+        "android_client_info": {
+          "package_name": "com.example.mapsme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXNfYtA8OJVDDuxZ_P97DKpNv5FdmAMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910472400827-0p7pu5n4ddo1flosd4cu5g0la14a046f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
